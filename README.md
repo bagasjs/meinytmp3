@@ -1,5 +1,8 @@
 # MEINYTMP3
-My dead simple youtube to mp3 downloader
+My dead simple youtube to mp3 downloader.
+
+## Download
+You could download [in the latest release page](https://github.com/bagasjs/meinytmp3/releases)
 
 ## How to build by my self?
 Just run this command in your terminal
