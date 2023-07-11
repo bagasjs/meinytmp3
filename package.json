@@ -1,0 +1,20 @@
+{
+  "name": "meinytdl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ytmp3.js",
+  "scripts": {
+    "build": "pkg ytmp3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.11.4"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  }
+}
